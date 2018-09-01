@@ -1,6 +1,5 @@
 {
-"list":[
-{"id":1,"name":"Gradići","location":"Croatia"},
+  "list":[{"id":1,"name":"Gradići","location":"Croatia"},
 {"id":2,"name":"Kalí Vrýsi","location":"Greece"},
 {"id":3,"name":"Pamoyanan","location":"Indonesia"},
 {"id":4,"name":"Ajdabiya","location":"Libya"},
